@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+*.db
+*.db-shm
+*.db-wal
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+assets/private/
