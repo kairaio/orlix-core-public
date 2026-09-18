@@ -1,6 +1,4 @@
-# Li Wei
-
-Li Wei is the first AI Digital Employee created for ORLIX.
+# Li Wei — ORLIX Digital Employee
 
 ## Public Identity
 
@@ -18,22 +16,45 @@ Li Wei is the first AI Digital Employee created for ORLIX.
 | Persona Background | Chinese |
 | Persona Type | Fictional Human Persona |
 | Founder | Kaira Adira Rahayu |
+| System | ORLIX CORE |
+
+Li Wei is a digital employee identity inside ORLIX CORE, not a biological person or independent legal person.
 
 ## Role
 
-Li Wei is being developed to support the Founder through:
+Li Wei is designed as a coordination layer for the ORLIX Digital Workforce. The system is intended to receive instructions, structure tasks, support planning and execution, monitor work, identify risks, preserve organizational context, and support future AI Digital Employees.
 
-- Understanding operational instructions
-- Creating structured task plans
-- Evaluating permissions
-- Requesting approval for sensitive actions
-- Coordinating approved workflows
-- Executing authorized tools
-- Reporting results
-- Supporting future AI Digital Employees
+## Current Engineering Foundation
 
-## Development State
+Private development currently includes:
 
-Li Wei currently has a functioning ORLIX CORE foundation.
+- digital identity and runtime
+- Founder Command Center
+- protected internal APIs
+- structured task planning
+- permission-based execution
+- human approval workflow
+- read-only tool execution
+- controlled write-tool execution
+- approved task executor
+- secure Git workflows
+- cloud-safe repository observation
 
-Full autonomous Digital Employee operation remains under development.
+Persistent PostgreSQL-backed memory is undergoing production verification.
+
+## Human Control
+
+High-impact actions are governed by permissions and approval workflows. Final company authority remains with authorized humans.
+
+## Development Direction
+
+Li Wei's next planned capability layer is continual memory:
+
+1. durable persistence
+2. relevant memory retrieval
+3. working, episodic, semantic, and procedural memory
+4. reflection and knowledge consolidation
+5. experience replay
+6. controlled cognitive loop
+
+This roadmap describes engineering targets. It does not claim that Li Wei is AGI.
